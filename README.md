@@ -12,6 +12,7 @@ cd data_genius_app
 
 2️⃣ Create Virtual Environment (Recommended)
 Windows
+
 python -m venv venv
 venv\Scripts\activate
 Mac/Linux
